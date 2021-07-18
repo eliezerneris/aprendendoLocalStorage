@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: relative;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #ff003c;
+    text-align: center;
+    font-size: 60px;
+    filter: opacity(100%);
+}
+
+div .subtitulo{
+    margin-top: 400px;
+}
+
+h5 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
